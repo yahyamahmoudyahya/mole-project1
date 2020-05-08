@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "60875117023",
+    "firebase_url": "https://ramadan-food-8d050.firebaseio.com",
+    "project_id": "ramadan-food-8d050",
+    "storage_bucket": "ramadan-food-8d050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60875117023:android:ac1a506aa8685972cf346a",
+        "android_client_info": {
+          "package_name": "com.yahya.ramadanfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60875117023-lo5edbdb151ht246b3fbhv123iuqrvcd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yahya.ramadanfood",
+            "certificate_hash": "ed8ff878df17e00e4fca17266fe08136aff374e3"
+          }
+        },
+        {
+          "client_id": "60875117023-vlsk12r5s0b12br1s73fkbvmdmkct38m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0sVcT_qPj6W_PQIIJaeezBdTR6R60RBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60875117023-vlsk12r5s0b12br1s73fkbvmdmkct38m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
